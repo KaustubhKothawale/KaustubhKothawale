@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **kkothawa@usc.edu**
 
-- 📄 Know about my experiences [https://resume-kaustubh-kothawale.s3.us-east-2.amazonaws.com/kk_resume_Fall2023.pdf](https://resume-kaustubh-kothawale.s3.us-east-2.amazonaws.com/kk_resume_Fall2023.pdf)
+- 📄 Know about my experiences [[https://resume-kaustubh-kothawale.s3.us-east-2.amazonaws.com/kk_resume_Fall2023.pdf](https://resume-kaustubh-kothawale.s3.us-east-2.amazonaws.com/Kaustubh_Kothawale_resume.pdf)]
 
-- ⚡ Fun fact **I hate Windows,I just use Linux!**
+- ⚡ Fun fact **I hate Windows, I just use Linux!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
